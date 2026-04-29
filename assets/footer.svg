@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#00D9FF"/>
+      <stop offset="50%"  stop-color="#7B61FF"/>
+      <stop offset="100%" stop-color="#00D9FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="120" fill="#0d1117"/>
+
+  <path fill="url(#footerGrad)" opacity="0.55">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite"
+      values="
+        M 0 60 Q 200 30 400 60 T 800 60 T 1200 60 L 1200 120 L 0 120 Z;
+        M 0 60 Q 200 90 400 60 T 800 60 T 1200 60 L 1200 120 L 0 120 Z;
+        M 0 60 Q 200 30 400 60 T 800 60 T 1200 60 L 1200 120 L 0 120 Z"/>
+  </path>
+
+  <path fill="#7B61FF" opacity="0.3">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite"
+      values="
+        M 0 80 Q 300 60 600 80 T 1200 80 L 1200 120 L 0 120 Z;
+        M 0 80 Q 300 100 600 80 T 1200 80 L 1200 120 L 0 120 Z;
+        M 0 80 Q 300 60 600 80 T 1200 80 L 1200 120 L 0 120 Z"/>
+  </path>
+</svg>

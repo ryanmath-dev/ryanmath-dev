@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Ryan%20Matheus&fontSize=70&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Fullstack%20Developer%20%26%20Tech%20Lead&descSize=22&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://raw.githubusercontent.com/ryanmath-dev/ryanmath-dev/main/assets/banner.svg" alt="Ryan Matheus — Fullstack Developer & Tech Lead" width="100%"/>
 
 <a href="https://github.com/ryanmath-dev">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=600&color=00D9FF&center=true&vCenter=true&width=720&lines=Apaixonado+por+criar+solu%C3%A7%C3%B5es+digitais+%F0%9F%9A%80;Especialista+em+arquitetura+distribu%C3%ADda+%E2%9A%A1;IA+aplicada%2C+microservi%C3%A7os+e+mobile+%F0%9F%A4%96;Transformando+neg%C3%B3cios+atrav%C3%A9s+da+tecnologia+%F0%9F%92%A1" alt="Typing SVG"/>
@@ -137,7 +137,7 @@ const ryan: Developer = {
 ## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"> Trajetória profissional
 
 <table>
-  <tr><td>🟢</td><td><b>Tech Lead Fullstack</b> · <a href="https://defendame.com.br">DefendaMe</a></td><td><i>Out 2025 — Presente</i></td></tr>
+  <tr><td>🟢</td><td><b>Tech Lead Fullstack</b> · <a href="https://defendame.com">DefendaMe</a></td><td><i>Out 2025 — Presente</i></td></tr>
   <tr><td>🟢</td><td><b>Fullstack & DevOps</b> · GoPost</td><td><i>Nov 2025 — Mar 2026</i></td></tr>
   <tr><td>🟣</td><td><b>Cofundador · Fullstack & Mobile</b> · Insight Quest</td><td><i>Dez 2024 — Mar 2026</i></td></tr>
   <tr><td>⚪</td><td><b>Fullstack & Mobile</b> · Cajuína Corretora de Seguros</td><td><i>Abr 2025 — Set 2025</i></td></tr>
@@ -265,5 +265,5 @@ Estou sempre aberto a novos projetos, parcerias e boas trocas técnicas.
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
+  <img src="https://raw.githubusercontent.com/ryanmath-dev/ryanmath-dev/main/assets/footer.svg" alt="" width="100%"/>
 </div>
