@@ -221,7 +221,7 @@ Plataforma educacional gamificada de segurança no trânsito, com mecânica de q
 <div align="center">
 
 <a href="https://github.com/ryanmath-dev">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryanmath-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&card_width=620" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ryanmath-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=a0a8c0&card_width=620" alt="GitHub Stats"/>
 </a>
 
 <br/><br/>
