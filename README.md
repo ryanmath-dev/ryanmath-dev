@@ -143,8 +143,7 @@ const ryan: Developer = {
   <tr><td>⚪</td><td><b>Fullstack & Mobile</b> · Cajuína Corretora de Seguros</td><td><i>Abr 2025 — Set 2025</i></td></tr>
   <tr><td>⚪</td><td><b>Frontend Developer</b> · Smartdata <i>(Pagol.bet)</i></td><td><i>Jun 2024 — Abr 2025</i></td></tr>
   <tr><td>⚪</td><td><b>Fullstack Developer</b> · Codefreela</td><td><i>Jun 2024 — Ago 2024</i></td></tr>
-  <tr><td>⚪</td><td><b>Frontend & Mobile</b> · Venda Mais</td><td><i>Nov 2023 — Abr 2024</i></td></tr>
-  <tr><td>⚪</td><td><b>Frontend Developer</b> · Mapa Estratégico</td><td><i>Mai 2023 — Nov 2023</i></td></tr>
+  <tr><td>⚪</td><td><b>Frontend & Mobile</b> · Venda Mais</td><td><i>Mai 2023 — Abr 2024</i></td></tr>
   <tr><td>⚪</td><td><b>Estágio em Desenvolvimento</b> · Sportaria</td><td><i>Abr 2022 — Abr 2023</i></td></tr>
 </table>
 
@@ -249,8 +248,8 @@ Estou sempre aberto a novos projetos, parcerias e boas trocas técnicas.
 <a href="https://www.linkedin.com/in/ryan-matheus-santana-ba7589212/">
   <img src="https://img.shields.io/badge/Ryan_Matheus_Santana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://byteflowsoftware.com.br">
-  <img src="https://img.shields.io/badge/byteflowsoftware.com.br-111111?style=for-the-badge&logo=googlechrome&logoColor=00D9FF"/>
+<a href="https://ryanmath.com.br">
+  <img src="https://img.shields.io/badge/ryanmath.com.br-111111?style=for-the-badge&logo=googlechrome&logoColor=00D9FF"/>
 </a>
 
 </div>
