@@ -216,10 +216,6 @@ Frontend das plataformas 4Play e Pagol. **Defini a arquitetura que unificou 4 fr
 
 <img src="https://streak-stats.demolab.com?user=ryanmath-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=7B61FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ryanmath-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=7B61FF&point=ffffff" alt="Activity Graph"/>
-
 </div>
 
 <br/>
