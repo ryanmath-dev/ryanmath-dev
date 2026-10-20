@@ -194,6 +194,35 @@ Frontend das plataformas 4Play e Pagol. **Defini a arquitetura que unificou 4 fr
 </tr>
 </table>
 
+### 💻 Projetos pessoais <sub>— com demo ao vivo</sub>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔭 SkyWatch Insights
+Plataforma fullstack de acompanhamento de **eventos astronômicos** (eclipses, chuvas de meteoros, auroras, cometas) consumindo **6 APIs reais da NASA, NOAA e USNO**. Previsão de observabilidade por clima, status em tempo real, favoritos e exportação social.
+
+`Java 21` `Spring Boot` `React` `TypeScript` `PostgreSQL` `Redis`
+
+<a href="https://skywatch-insights.vercel.app"><img src="https://img.shields.io/badge/▶_Demo-00D9FF?style=flat-square&logoColor=white"/></a>
+<a href="https://github.com/byteflow-software/skywatch-insights"><img src="https://img.shields.io/badge/Código-111111?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+#### 📅 Scheduly
+Sistema de **agendamento SaaS multi-tenant** para clínicas, salões e consultórios. **Clean Architecture** em 4 camadas, **CQRS + MediatR**, multi-tenancy por header, JWT com refresh, cobrança integrada e background jobs com Hangfire.
+
+`.NET 10` `Angular 21` `PostgreSQL` `Docker` `CQRS`
+
+<a href="https://schedule-asp-saas.vercel.app"><img src="https://img.shields.io/badge/▶_Demo-7B61FF?style=flat-square&logoColor=white"/></a>
+<a href="https://github.com/ryanmath-dev/schedule-asp-saas"><img src="https://img.shields.io/badge/Código-111111?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
+
 <p>
   <a href="https://github.com/byteflow-software"><img src="https://img.shields.io/badge/🏢_ByteFlow_Software-Organização-00D9FF?style=for-the-badge"/></a>
 </p>
