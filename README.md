@@ -178,7 +178,7 @@ Reescrevi um sistema legado em PHP para **Next.js + Node sem parar a operação*
 <td width="50%" valign="top">
 
 ### 🚗 Venda Mais — Vistoria veicular / Detran
-Plataforma integrada a Detran-PI e Detran-MA com **adaptador por estado** normalizando formatos diferentes num modelo único. Integração de pagamentos (Iugu) tratando webhooks fora de ordem. **2–3 mil agendamentos/dia.**
+Plataforma de agendamento de vistoria veicular integrada ao **Detran-MA**. Integração de pagamentos (Iugu) consumindo webhooks de cobrança e tratando chegada fora de ordem e duplicidade. **2–3 mil agendamentos/dia.**
 
 `Vue 3` `Node` `PostgreSQL`
 
